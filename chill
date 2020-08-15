@@ -1,0 +1,4 @@
+import random
+list = []
+list =random. sample(range(0, 500), 10) 
+print(list)
